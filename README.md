@@ -6,3 +6,5 @@ I use Linux as Os .
 I know python , Javascript (not as primary language ) 
 I'm working with Golang and I will work as backend developer with golang . 
 
+
+WishMeGoodLuck :)
