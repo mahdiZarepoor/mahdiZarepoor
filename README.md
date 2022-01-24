@@ -3,9 +3,9 @@
 
 ***
 Find me On Linkedin(The only social network that I have)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-My linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahdi-zarepoor-4a48b3211/)](https://www.linkedin.com/in/mahdi-zarepoor-4a48b3211/))
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Mahdi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 ***
-**### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">more about me**
+**<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">more about me**
 
 ```go 
 package main
