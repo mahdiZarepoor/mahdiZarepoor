@@ -2,14 +2,13 @@
 > I'm student of software engineering at Iran/Mashhad .
 
 ***
-Wanna find me ? 
-
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahdi-zarepoor-4a48b3211/)](https://www.linkedin.com/in/mahdi-zarepoor-4a48b3211/))
-![Me](https://pasteboard.co/7NLffVBNQCC9.jpg)
+Find me On Linkedin(The only social network that I have)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-My linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahdi-zarepoor-4a48b3211/)](https://www.linkedin.com/in/mahdi-zarepoor-4a48b3211/))
+And follow me on github
+[![GitHub Thaiane](https://img.shields.io/github/followers/Mahdibel=follow&style=social)](https://github.com/sir-mahdi-zarepoor)
 ***
-
-
 **### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">more about me**
+
 ```go 
 package main
 
