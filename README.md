@@ -2,7 +2,7 @@
 > I'm student of software engineering at Iran/Mashhad .
 
 ***
-Find me On Linkedin(The only social network that I have)
+**Find me On Linkedin(The only social network that I have)**
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Mahdi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahdi-zarepoor-4a48b3211/)](https://www.linkedin.com/in/mahdi-zarepoor-4a48b3211/)
 ***
 **<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">more about me**
