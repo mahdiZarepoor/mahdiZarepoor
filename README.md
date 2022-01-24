@@ -4,7 +4,16 @@
 ***
 ![Me](https://pasteboard.co/7NLffVBNQCC9.jpg)
 
-> more about me 
+> more about me )
+
+'''go 
+package main
+
+func main() {}
+
+'''
+
+
 I'm just a junior who madly interested in Learning new things related to programming and computers . 
 I use Linux as Os . 
 I know python , Javascript (not as primary language ) 
