@@ -6,12 +6,12 @@
 
 > more about me )
 
-'''go 
+```go 
 package main
 
 func main() {}
 
-'''
+```
 
 
 I'm just a junior who madly interested in Learning new things related to programming and computers . 
