@@ -7,6 +7,7 @@
 ***
 **<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">more about me**
 
+run this playground here : https://go.dev/play/p/5lVmxemSUVW
 ```go 
 package main
 
@@ -27,14 +28,20 @@ func main() {
 
 	likes := []string{"The walking dead TV show", "Running", "Leaning human/computer languages", "MetalHead"}
 
+	fmt.Println("Abilities : ")
 	for key, value := range myAbilities {
 		fmt.Println(key, value)
 	}
 
+	fmt.Println("\nwanna learn more :")
 	for key, value := range wannaLearnMore {
 		fmt.Println(key, value)
 	}
-	fmt.Println("\nI like : ", likes)
+
+	fmt.Println("\nI also like : ")
+	for _, like := range likes {
+		fmt.Println(like)
+	}
 }
 
 ```
