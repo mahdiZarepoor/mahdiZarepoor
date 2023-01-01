@@ -1,5 +1,5 @@
 **HEY THERE**
-> a student of software engineering at Iran/Mashhad .
+> a student of software engineering from Iran/Mashhad .
 
 ***
 **Find me On Linkedin**
